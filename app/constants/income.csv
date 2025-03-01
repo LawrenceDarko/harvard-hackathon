@@ -1,0 +1,56 @@
+Date,Source,Amount,Category,Description,income
+2022-09-17,J King,1000,Other,Monthly allowance,income
+2022-10-17,J King,1700,Other,Monthly allowance,income
+2022-10-27,Employer,2000,Job,,income
+2022-11-20,J King,1000,Other,Monthly allowance,income
+2022-11-10,NSS,800,Job,,income
+2022-11-18,Sassty,400,Side project,,income
+2022-09-15,Savings,475,Expense reimbursement,From Stanbic Bank,income
+2022-11-22,J King,1500,Other,,income
+2022-11-21,Stanbic,200,Expense reimbursement,,income
+2022-11-24,Class,1000,Job,November,income
+2022-11-28,Employer,500,Job,NSS,income
+2022-12-12,Employer (Iinvent),2332,Job,From Kobina,income
+2022-12-17,J King,2000,Other,Monthly allowance,income
+2022-12-22,Class,1000,Job,,income
+2023-01-13,Prince Atta Kwakye,1000,Side project,Loan Paid,income
+2023-01-17,Employer,2000,Job,,income
+2023-01-23,J King,2000,Other,,income
+2023-02-01,Savings,200,Expense reimbursement,,income
+2023-02-23,Empoyer,2000,Job,,income
+2023-02-26,J King,1000,Other,,income
+2023-03-01,Savings,48,Expense reimbursement,March Interest (264-216),income
+2023-03-04,IDL,700,Side project,,income
+2023-03-29,J King,1030,Other,,income
+2023-03-31,Employer,2000,Job,,income
+2023-03-31,Savings,85,Expense reimbursement,,income
+2023-04-26,VISA,21,Expense reimbursement, Visa Interest,income
+2023-04-27,J King,1500,Other,,income
+2023-05-01,Martha,100,Expense reimbursement,,income
+2023-05-27,J King,1500,Other,,income
+2023-06-10,J King,2000,Other,,income
+2023-06-12,IINVENT,2000,Job,,income
+2023-06-27,PaySwitch,2624,Job,,income
+2023-07-13,J King,1000,Other,,income
+2023-07-27,PaySwitch,3343,Job,,income
+2023-08-28,PaySwitch,3343,Job,,income
+2023-09-19,PaySwitch,2500,Side project,Conversion,income
+2023-09-26,PaySwitch,3343,Job,,income
+2023-10-26,PaySwitch,3343,Job,,income
+2023-11-08,Peter,700,Side project,,income
+2023-11-24,PaySwitch,3343,Job,,income
+2023-12-20,PaySwitch,3343,Job,,income
+2023-12-23,J King,1000,Other,,income
+2023-12-28,PaySwitch,1995,Other,,income
+2024-01-26,PaySwitch,3378,Job,,income
+2024-02-05,Muzaf,500,Side project,,income
+2024-02-28,PaySwitch,4500,Job,,income
+2024-02-28,Amamkona,3000,Side project,,income
+2024-03-26,PaySwitch,4500,Job,,income
+2024-04-25,PaySwitch,3500,Job,,income
+2024-04-26,J King,2000,Other,,income
+2024-05-28,PaySwitch,4500,Job,,income
+2024-06-27,PaySwitch,4500,Job,,income
+2024-07-04,PaySwitch,5000,Side project,,income
+2024-07-09,CARISCA,1000,Side project,,income
+2024-07-25,PaySwitch,4500,Job,,income
