@@ -2,9 +2,6 @@
 
 import React, { useRef, useEffect, useState } from 'react';
 import { useChat } from '@ai-sdk/react';
-import useAIChatStore from '@/app/hooks/useAIChatStore';
-import { IoIosClose } from 'react-icons/io';
-import { useRouter } from 'next/navigation';
 
 const AIChatModal = () => {
     // const { messages, input, handleInputChange, handleSubmit } = useChat({
